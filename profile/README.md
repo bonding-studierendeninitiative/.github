@@ -12,7 +12,7 @@ At Bonding, we are passionate about empowering students to kickstart their caree
 - **Consultancy Projects**: Facilitate real-world project experiences for students to solve challenges posed by partnering companies.
 
 ## Join Us 🌱
-Whether you're a student eager to learn and network, a company looking to connect with fresh talent, or simply interested in our cause, there's a place for you at Bonding. Dive into our repositories to see the projects we are working on and how we're making a difference!
+Whether you're a student eager to learn and network, a company looking to connect with fresh talent, or simply interested in our cause, there's a place for you at bonding. Dive into our repositories to see the projects we are working on and how we're making a difference!
 
 🔗 Connect with us:
 - [Website](bonding.de)
